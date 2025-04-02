@@ -58,8 +58,8 @@ export OPENAI_API_KEY="your-openai-api-key"
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
-   cd your-repo
+   git clone git@github.com:genjudev/email-sensible-information-checker.git
+   cd email-sensible-information-checker
    ```
 
 2. **Build and Run the Script**
